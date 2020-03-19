@@ -2,7 +2,7 @@
 
 ## Conda environtment:
 
-If you are starting fresh in your computer:
+If you are starting fresh in your computer open the anaconda terminal:
 - `conda create -n ailabs python=3.6`
 - `conda activate ailabs`
 - `pip install numpy pandas sklearn`
